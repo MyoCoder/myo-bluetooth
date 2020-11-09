@@ -1,3 +1,5 @@
+(Hi there, sorry i am not changing the code but was just wonder if you could remake this code as a Lua file for me to use and publish here. Thank You)
+
 #pragma once
 
 #include <stdint.h>
